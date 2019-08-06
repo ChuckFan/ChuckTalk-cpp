@@ -1,0 +1,12 @@
+﻿生成启动时间为 2019/8/2 15:29:01。
+     1>项目“D:\c及c++\STL容器练习\string\my_string\my_string\my_string.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>d:\c及c++\stl容器练习\string\my_string\my_string\test.cpp(15): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>已完成生成项目“D:\c及c++\STL容器练习\string\my_string\my_string\my_string.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.90
